@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=xmonad-gnome-flashback
+Comment=Improved dynamic tiling window manager
+Exec=xmonad-gnome-flashback
+NoDisplay=true
+X-GNOME-WMName=xmonad-gnome-flashback
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false

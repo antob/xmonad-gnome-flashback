@@ -1,0 +1,6 @@
+[org.gnome.desktop.wm.preferences:XMonad-GNOME-Flashback]
+button-layout='appmenu:close'
+
+[org.gnome.gnome-flashback:XMonad-GNOME-Flashback]
+desktop=false
+root-background=true
